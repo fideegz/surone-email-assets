@@ -30,3 +30,30 @@ Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/images/`
 | image-11..14.png | 48x48 | Iconos redes sociales |
 
 Para fijar una version inmutable, reemplazar `@main` por el SHA del commit.
+
+
+## Sur One · Resultado de inspección vehicular (correos 06.1–06.6)
+
+Imagenes de los 6 correos del flujo de pago posterior a la inspección. Los HTML (en el zip entregado) ya apuntan a estas URLs.
+
+Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/inspeccion-vehicular/images/`
+
+| Archivo | Medidas | Uso |
+|---|---|---|
+| header-surone-cifraseg.png | 1104x144 | Cabecera co-branding (06.6) |
+| hero-inspeccion-rechazada.png | 1104x368 | Banner 06.5 |
+| hero-resultado-inspeccion.png | 1104x368 | Banner 06.3 / 06.4 |
+| hero-resultado-validacion.png | 1104x368 | Banner 06.1 / 06.2 |
+| hero-vehiculo-nuevo.png | 1104x368 | Banner 06.6 |
+| icon-advertencia.png | 112x112 | Ícono advertencia |
+| icon-aprobado.png | 112x112 | Ícono estado aprobado |
+| icon-corregir.png | 64x64 | Ícono datos por corregir |
+| icon-facebook.png | 36x36 | Red social |
+| icon-info.png | 64x64 | Ícono información |
+| icon-instagram.png | 36x36 | Red social |
+| icon-motivo.png | 64x64 | Ícono motivo |
+| icon-rechazado.png | 112x112 | Ícono estado no aprobado |
+| icon-youtube.png | 36x36 | Red social |
+| logo-aseguradora-del-sur.png | 200x80 | Logo ADS en firma |
+| logo-surone.png | 252x60 | Logo cabecera |
+| logos-ads-sostenibilidad.png | 530x160 | Logos ADS + sostenibilidad (06.6) |
