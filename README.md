@@ -57,3 +57,18 @@ Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/inspeccion-v
 | logo-aseguradora-del-sur.png | 200x80 | Logo ADS en firma |
 | logo-surone.png | 252x60 | Logo cabecera |
 | logos-ads-sostenibilidad.png | 530x160 | Logos ADS + sostenibilidad (06.6) |
+
+
+## Oficina Virtual APS · Aseguradora del Sur (notificaciones internas)
+
+Imagenes de los correos de la Oficina Virtual APS (plantilla "D - Notificacion" de Figma). El HTML se entrega aparte y ya apunta a estas URLs.
+
+Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/oficina-virtual-aps/images/`
+
+| Archivo | Medidas | Uso |
+|---|---|---|
+| header-ejecutivo.jpg | 600x300 | Cabecera azul de correos internos (Mensaje=Ejecutivo) |
+| logo-aseguradora-del-sur.png | 400x160 | Logo ADS en el pie (se muestra a 200x80) |
+| icon-facebook.png | 48x48 | Red social (celeste, se muestra a 24x24) |
+| icon-instagram.png | 48x48 | Red social (celeste, se muestra a 24x24) |
+| icon-youtube.png | 48x48 | Red social (celeste, se muestra a 24x24) |
