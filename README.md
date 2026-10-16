@@ -82,5 +82,5 @@ Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-link-pag
 
 | Archivo | Medidas | Uso |
 |---|---|---|
-| kia-smart-gold.png | 280x55 | Logo Kia Smart Gold (se muestra a 140 de ancho) |
-| kia-smart-silver.png | 280x55 | Logo Kia Smart Silver (se muestra a 140 de ancho) |
+| kia-smart-gold.png | 280x54 | Logo Kia Smart Gold (fondo transparente, se muestra a 140 de ancho) |
+| kia-smart-silver.png | 280x54 | Logo Kia Smart Silver (fondo transparente, se muestra a 140 de ancho) |
