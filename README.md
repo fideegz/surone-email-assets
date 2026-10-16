@@ -72,3 +72,15 @@ Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/oficina-virt
 | icon-facebook.png | 48x48 | Red social (celeste, se muestra a 24x24) |
 | icon-instagram.png | 48x48 | Red social (celeste, se muestra a 24x24) |
 | icon-youtube.png | 48x48 | Red social (celeste, se muestra a 24x24) |
+
+
+## KIA Smart · Link de pago (logos de plan)
+
+Logos del plan para la plantilla Link_pago_Kia. El sistema manda la URL del logo en el parámetro `imagen_plan` según el plan cotizado.
+
+Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-link-pago/images/`
+
+| Archivo | Medidas | Uso |
+|---|---|---|
+| kia-smart-gold.png | 280x55 | Logo Kia Smart Gold (se muestra a 140 de ancho) |
+| kia-smart-silver.png | 280x55 | Logo Kia Smart Silver (se muestra a 140 de ancho) |
