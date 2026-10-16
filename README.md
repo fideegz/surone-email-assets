@@ -84,3 +84,15 @@ Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-link-pag
 |---|---|---|
 | kia-smart-gold.png | 280x54 | Logo Kia Smart Gold (fondo transparente, se muestra a 140 de ancho) |
 | kia-smart-silver.png | 280x54 | Logo Kia Smart Silver (fondo transparente, se muestra a 140 de ancho) |
+
+
+## Kia Smart · Notificación de contratación a Quicklink (Sur One)
+
+Cabecera del correo Sur One que avisa a Quicklink de una nueva contratación Kia Smart. Foto del concesionario Kia (Figma KIA, Mockup) en el tono morado de Sur One, igual que el hero de la Guía One Fit. El resto de imágenes son las de `images/` (plantilla One Fit).
+
+Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-smart-quicklink/images/`
+
+| Archivo | Medidas | Uso |
+|---|---|---|
+| hero-kia-smart.jpg | 1200x480 | Fondo del hero (se muestra a 600x240) |
+| hero-kia-smart-600.jpg | 600x240 | Fondo del hero en Outlook (VML) |
