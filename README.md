@@ -96,3 +96,4 @@ Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-smart-qu
 |---|---|---|
 | hero-kia-smart.jpg | 1200x480 | Fondo del hero (se muestra a 600x240) |
 | hero-kia-smart-600.jpg | 600x240 | Fondo del hero en Outlook (VML) |
+| hero-solicitud-instalacion.jpg | 1200x480 | Cabecera con el título "Solicitud instalación dispositivo" incluido (se muestra a 600x240). Es la que usa el correo: el editor de Infobip no muestra imágenes de fondo |
