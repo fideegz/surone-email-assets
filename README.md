@@ -97,3 +97,21 @@ Base: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-smart-qu
 | hero-kia-smart.jpg | 1200x480 | Fondo del hero (se muestra a 600x240) |
 | hero-kia-smart-600.jpg | 600x240 | Fondo del hero en Outlook (VML) |
 | hero-solicitud-instalacion.jpg | 1200x480 | Cabecera con el título "Solicitud instalación dispositivo" incluido (se muestra a 600x240). Es la que usa el correo: el editor de Infobip no muestra imágenes de fondo |
+
+## KIA Smart · Link de firma y Link de pago (Infobip)
+
+Imágenes de las plantillas `Link_firma_Kia` (v3) y `Link_pago_Kia` (v4). Antes estaban en i.ibb.co (ImgBB), que falla o está bloqueado en varios correos; desde el 2026-11-04 salen de aquí.
+
+Base firma: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-link-firma/images/`
+Base pago: `https://cdn.jsdelivr.net/gh/fideegz/surone-email-assets@main/kia-link-pago/images/`
+
+| Archivo | Uso |
+|---|---|
+| hero.jpg | Encabezado con el texto incluido (1200x430, se muestra a 600 px). Reemplaza el fondo CSS + VML. |
+| image-1.png | Logo KIA Smart de la cabecera |
+| image-4.png | Pasos del proceso |
+| image-5.png | Separador (solo firma) |
+| image-6.png / image-7.png | Íconos del botón y del aviso |
+| image-9..11.png | Íconos de redes sociales |
+| image-12.png / image-13.png | Logos del pie |
+| kia-smart-gold.png / kia-smart-silver.png | Logo del plan (`{{imagen_plan}}`, solo pago) |
